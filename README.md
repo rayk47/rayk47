@@ -16,7 +16,7 @@ Hey there! My name is Raymond and I'm a full-stack software engineer with over 1
 
 </br>
 
-> I can't draw a stick man, but I can probably build you an application that will.
+I can't draw a stick man, but I can probably build you an application that will.
 
 </br>
 
