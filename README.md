@@ -21,5 +21,5 @@ I can't draw a stick man, but I can probably build you an application that will.
 </br>
 
 - **Experience:** React, Typescript, Serverless, AWS, AWS CDK, Lambda, Postgres, Docker, K8s, Nodejs, Java
-- **Education:** Bachelor of Science in Computer Science @ Dublin City University
+- **Education:** Bachelor of Science in Computer Science @ Dublin City University, Ireland
 - **Interests:** Serverless technologies, Sports, Gaming
